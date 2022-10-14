@@ -7,6 +7,7 @@ public class Main {
         scores[1] = 70;
         scores[2] = 80;
         scores[3] = 100;
+        scores[2] = 71;
 
         System.out.println("In index 1: " + scores[0]);
         System.out.println("In index 2: " + scores[1]);
